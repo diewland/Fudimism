@@ -1,12 +1,11 @@
 {
-    "attributes" : [ {
-      "trait_type" : "Background",
-      "value" : "Grey"
-    }, {
-      "trait_type" : "Text",
-      "value" : "C"
-    } ],
-    "description" : "Safety first, Danger later.",
-    "image" : "https://nft.diew.app/assets/fudimism/0.png",
-    "name" : "Safety first"
+  "name": "Safety First",
+  "description": "100% FUD",
+  "image": "https://diewland.github.io/Fudimism/assets/0.png",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Safety Helmet"
+    }
+  ]
 }
