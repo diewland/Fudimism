@@ -1,5 +1,11 @@
 {
   "name": "Safety First",
   "description": "100% FUD",
-  "image": "https://diewland.github.io/Fudimism/assets/0.png"
+  "image": "https://diewland.github.io/Fudimism/assets/0.png",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    }
+  ]
 }
