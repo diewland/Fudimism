@@ -22,7 +22,7 @@ metadata = {
 }
 
 CONFIG = [
-    [ "AB",     "https://diewland.github.io/Fudimism/assets/ab.png" ],
+    [ "Arbi",   "https://diewland.github.io/Fudimism/assets/ab.png" ],
     [ "Nova",   "https://diewland.github.io/Fudimism/assets/nova.png" ],
 ]
 
